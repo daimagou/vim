@@ -1,4 +1,3 @@
-" below add by haolong.zhang test 20140819
 "===================misc for vim=================================
 set nu
 set relativenumber
